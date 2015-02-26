@@ -90,6 +90,31 @@ table {
   color: white;
 }
 
+.btn {
+  box-sizing : border-box;
+  height: 20px;
+  max-width: 100%;
+  position: relative;
+  background-color: #f8f8f8;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#fff),to(#dedede));
+  border: #ccc solid 1px;
+  border-radius: 3px;
+  color: #333;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  -webkit-user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+
 
 
 
