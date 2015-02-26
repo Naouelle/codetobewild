@@ -1,0 +1,11 @@
+{
+  "name": "codetobewild",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14",
+    "ionic-ion-ios-buttons": "*",
+    "ionic-ion-drawer": "*",
+    "ionic-ion-header-shrink": "*",
+    "ionic-ion-swipe-cards": "*"
+  }
+}
